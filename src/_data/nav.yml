@@ -1,0 +1,14 @@
+- name: Academic
+  url:  /academic/
+
+- name: Extracurricular
+  url:  /extracurricular/
+
+- name: Volunteer
+  url:  /volunteer/
+
+- name: Interest
+  url:  /interest/
+
+- name: About
+  url:  /about/

@@ -1,0 +1,26 @@
+# Site settings
+title: Theodore Q. Li's Profile
+header-img: img/home-bg.jpg
+email: theodoreqli@gmail.com
+copyright_name: 
+description: "Theodore Q. Li's Profile"
+baseurl: ""
+url: "http://theodoreqli.github.io"
+github_username:  theodoreqli
+email_username:  theodoreqli@gmail.com
+
+# Google Analytics
+# To enable google analytics, uncomment below line with a valid Google Tracking ID
+# google_tracking_id:
+
+source: src
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+plugins: [jekyll-paginate, jekyll-feed]
+
+port: 4299

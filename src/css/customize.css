@@ -1,0 +1,40 @@
+/* @import url('https://fonts.googleapis.com/icon?family=Material+Icons'); */
+hr {
+    border: 0;
+    height: 1px;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+}
+
+body {
+    background-color:lightgrey
+}
+
+.container {
+    margin-top: 20px;
+}
+
+.navbar {
+    background-color: darkgreen;
+}
+
+.flex-container {
+    display: -webkit-flex;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.flex-item {
+    width: 350px;
+    margin: 50px;
+}
+
+.card {
+    width: 350px;
+}
+
+.card li {
+    margin-left: 20px;
+}
+
